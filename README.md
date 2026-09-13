@@ -587,29 +587,4 @@ Rapport Week 6 (PDF)
 
 Dataset
 
-🔄 Mises à Jour
-Version	Date	Changements
-1.0	2026-09-06	Version initiale - Week 5
-2.0	2026-09-13	Ajout Week 6 : Modèles avancés, cross-validation, optimisation du seuil
-⭐ N'oubliez pas de mettre une étoile si ce projet vous a été utile !
-
 Fait avec ❤️ dans le cadre du programme AnalystLab Africa Experience Lab
-
-text
-
----
-
-## ✅ INSTRUCTIONS
-
-1. **Copie tout le contenu ci-dessus**
-2. **Colle-le dans ton fichier `README.md`**
-3. **Remplace les informations personnelles** :
-   - `votre-username` → ton nom GitHub
-   - `SOGA Para` → ton vrai nom (déjà fait)
-   - `sparadodaniel@gmail.com` → ton email (déjà fait)
-4. **Sauvegarde le fichier**
-5. **Commit et push** :
-```bash
-git add README.md
-git commit -m "Update README with complete Week 6 documentation"
-git push origin main
